@@ -1,16 +1,18 @@
 what is html
+---
 * structure
 * what's in the page
 * skeleton / house foundation + studs
 
 what is css
+---
 * what things look like
 * clothes / literally anything to do with appearance for a house
 
 demo with facebook.com turning off CSS
-
-find a partner and change at least one thing to make facebook cooler
-* here are some styles:
+---
+find a partner and change at least one thing to make facebook cooler  
+here are some styles:
 ```
 background-color
 color
@@ -22,13 +24,17 @@ letter-spacing
 ```
 
 box model
+---
 * padding / margin / border
 * margin 0 auto
 
+all you need to know as a designer
+---
 http://motherfuckingwebsite.com/
 http://bettermotherfuckingwebsite.com/
 
 how to pick what goes in your portfolio
+---
 * feedback from FRIENDS
 * variety
 * what you're proud of
