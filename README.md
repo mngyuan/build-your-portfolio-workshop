@@ -1,3 +1,9 @@
+Build Your Portfolio
+===
+PLEASE BRING:
+1) at least 5 images, preferably from your portfolio.
+1) a modern editor and a modern browser - I recommend Sublime or Atom and Chrome.
+
 what is html
 ---
 * structure
@@ -30,7 +36,7 @@ box model
 
 all you need to know as a designer
 ---
-http://motherfuckingwebsite.com/
+http://motherfuckingwebsite.com/  
 http://bettermotherfuckingwebsite.com/
 
 how to pick what goes in your portfolio
@@ -42,3 +48,23 @@ how to pick what goes in your portfolio
 
 meet 3 new people and show them your work
 pick at least 1 thing you like and 1 thing you don't like from each person's portfolio  
+
+Some resources!
+===
+Tools
+---
+* font-awesome (icons)
+* google fonts http://hellohappy.org/beautiful-web-type/
+* blog typography http://kaikkonendesign.fi/typography/section/1
+
+Inspiration
+---
+* http://cargocollective.com/chrse
+* irenekly.com
+* alekskamko.com
+* designbyroka.com
+* shanahu.com
+* alvinwan.com
+* mig.io
+* berylwang.com
+* kevinmlee.io
