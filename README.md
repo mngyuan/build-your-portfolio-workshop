@@ -1,8 +1,11 @@
 Build Your Portfolio
 ===
 PLEASE BRING:
-1) at least 5 images, preferably from your portfolio.
-1) a modern editor and a modern browser - I recommend Sublime or Atom and Chrome.
+
+1. at least 5 images, preferably from your portfolio.
+1. a modern editor and a modern browser - I recommend [Sublime](http://www.sublimetext.com/)
+or [Atom](https://atom.io/)
+and [Chrome](https://www.google.com/chrome).
 
 what is html
 ---
@@ -60,11 +63,11 @@ Tools
 Inspiration
 ---
 * http://cargocollective.com/chrse
-* irenekly.com
-* alekskamko.com
-* designbyroka.com
-* shanahu.com
-* alvinwan.com
-* mig.io
-* berylwang.com
-* kevinmlee.io
+* http://irenekly.com
+* http://alekskamko.com
+* http://designbyroka.com
+* http://shanahu.com
+* http://alvinwan.com
+* http://mig.io
+* http://berylwang.com
+* http://kevinmlee.io
