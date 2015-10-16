@@ -1,3 +1,14 @@
+@font-face {
+  font-family: 'PF DinText Pro';
+  src: url(lib/fonts/PFDinDisplayPro-Reg.ttf);
+}
+@font-face {
+  font-family: 'GothamMedium';
+  src: url(lib/fonts/GothamMedium.otf);
+}
+
+/* Changes to basic tags */
+
 html {
   /*background-color: #212223;*/
   font-family: 'PF DinText Pro', sans-serif;
@@ -27,7 +38,7 @@ header {
   padding: 0 90px;
   font-family: 'GothamMedium', sans-serif;
   text-transform: uppercase;
-  font-size: 1.2em;
+  font-size: 2em;
 }
 
 footer {
@@ -41,11 +52,27 @@ footer {
   background: #9f9191;
 }
 
-@font-face {
-  font-family: 'PF DinText Pro';
-  src: url(lib/fonts/PFDinDisplayPro-Reg.ttf);
+/* custom tags */
+#portfolio {
+  text-align: center;
 }
-@font-face {
-  font-family: 'GothamMedium';
-  src: url(lib/fonts/GothamMedium.otf);
+.portfolio-item {
+  width: 200px;
+  margin: 5px 10px;
+  display: inline-block;
+}
+.portfolio-item img {
+  background-position: cover;
+  display: block;
+  width: 100%;
+  height: 80px;
+}
+.portfolio-item p {
+  margin-top: 0;
+}
+.portfolio-item h3 {
+  margin-bottom: 0;
+}
+#portfolio:nth-child(1) {
+  background-size: url('i/1.png');
 }
