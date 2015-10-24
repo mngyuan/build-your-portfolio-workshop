@@ -12,6 +12,9 @@ what is html
 * structure
 * what's in the page
 * skeleton / house foundation + studs
+```
+<tag attribute="value">text or content</tag>
+```
 
 what is css
 ---
