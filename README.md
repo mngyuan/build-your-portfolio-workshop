@@ -7,6 +7,8 @@ PLEASE BRING:
 or [Atom](https://atom.io/)
 and [Chrome](https://www.google.com/chrome).
 
+If you're here for the slides, they're [here](hex workshop.pdf).
+
 what is html
 ---
 * structure
