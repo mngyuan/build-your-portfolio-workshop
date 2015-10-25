@@ -67,7 +67,7 @@ Tools
 
 Inspiration
 ---
-* http://cargocollective.com/chrse
+* http://charissecelestial.com/
 * http://irenekly.com
 * http://alekskamko.com
 * http://designbyroka.com
